@@ -14,6 +14,6 @@ const pool = new Pool({
     database: 'gfgbackend',
     password: 'postgres',
     dialect: 'postgres',
-    port: 5432
+    port: 5439
 });
   
